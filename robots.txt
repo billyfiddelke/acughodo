@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://haloonguaj.hamiltonbrandon.com/sitemap.xml
